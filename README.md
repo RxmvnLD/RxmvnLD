@@ -6,11 +6,11 @@
     <li>
         🔭 I’m currently working on
         <a
-            href="https://canteradigital.io"
+            href="https://fuddis.com/"
             target="_blank"
             rel="noopener noreferrer"
         >
-            <u>Cantera Digital</u></a
+            <u>Fuddis & Voguex</u></a
         >
     </li>
     <li>🌱 I’m currently learning <b>TypeScript, ReactJS and algorithms</b></li>
