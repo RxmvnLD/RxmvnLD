@@ -13,7 +13,7 @@
             <u>Fuddis & Voguex</u></a
         >
     </li>
-    <li>🌱 I’m currently learning <b>TypeScript, ReactJS and algorithms</b></li>
+    <li>🌱 I’m currently learning <b>Back-end topics</b></li>
     <li>
         👨‍💻 All of my projects are available at
         <a
