@@ -10,7 +10,7 @@
             target="_blank"
             rel="noopener noreferrer"
         >
-            <u>Fuddis & Voguex</u></a
+            <u>Fuddis</u></a
         >
     </li>
     <li>🌱 I’m currently learning <b>Back-end topics</b></li>
