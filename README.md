@@ -10,8 +10,7 @@
             target="_blank"
             rel="noopener noreferrer"
         >
-            <u>Bricksell</u></a
-        >
+            <u>Bricksell</u></a>
     </li>
     <li>🌱 I’m currently learning <b>Back-end topics</b></li>
     <li>
