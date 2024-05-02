@@ -6,11 +6,11 @@
     <li>
         🔭 I’m currently working on
         <a
-            href="https://fuddis.com/"
+            href="[https://fuddis.com/](https://bricksell.com/welcome)"
             target="_blank"
             rel="noopener noreferrer"
         >
-            <u>Fuddis</u></a
+            <u>Bricksell</u></a
         >
     </li>
     <li>🌱 I’m currently learning <b>Back-end topics</b></li>
