@@ -6,7 +6,7 @@
     <li>
         🔭 I’m currently working on
         <a
-            href="https://bricksell.com/welcome"
+            href="https://bricksell.com"
             target="_blank"
             rel="noopener noreferrer"
         >
