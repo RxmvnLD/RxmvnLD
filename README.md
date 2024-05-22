@@ -13,16 +13,6 @@
             <u>Bricksell</u></a>
     </li>
     <li>🌱 I’m currently learning <b>Back-end topics</b></li>
-    <li>
-        👨‍💻 All of my projects are available at
-        <a
-            href="https://rxmvnld-portfolio.web.app"
-            target="_blank"
-            rel="noopener noreferrer"
-        >
-            <u>rxmvnld-portfolio.web.app</u></a
-        >
-    </li>
     <li>💬 Ask me about <b>JS Core & ReactJS</b></li>
     <li>
         📫 How to reach me
@@ -31,7 +21,7 @@
     <li>
         📄 Know about my experiences
         <a
-            href="http://drive.google.com/file/d/1oTpbEfIYsCbDuU51inozJizeujFJC4v0/view?usp=sharing"
+            href="http://drive.google.com/file/d/1oTpbEfIYsCbDuU51inozJbbizeujFJC4v0/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             >here</a
